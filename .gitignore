@@ -1,0 +1,12 @@
+# ignored folders
+node_modules/
+src/
+vendor/
+
+# ignored files
+gulpfile.js
+package-lock.json
+package.json
+website.zip
+.DS_Store
+README.md

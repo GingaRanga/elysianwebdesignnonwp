@@ -1,0 +1,105 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+	<!-- Global site tag (gtag.js) - Google Analytics ///////////////////////////////////////////////////////////// -->
+	<!-- <script async src="https://www.googletagmanager.com/gtag/js?id=UA-113301501-1"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+
+	  gtag('config', 'UA-113301501-1');
+	</script> -->
+	<!-- FIRST THREE REQUIRED META //////////////////////////////////////////////////////////////////////////////// -->
+	<meta charset="utf-8">
+	<meta http-equiv="x-ua-compatible" content="ie=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+	<!-- UNCOMMENT BEFORE UPLOADING MAIN SITE ///////////////////////////////////////////////////////////////////// -->
+	<!-- SEARCH ENGINE META -->
+	<!-- <meta name="robots" content="index,follow">
+	<meta name="googlebot" content="index,follow"> -->
+
+	<!-- SEO & AUTHOR META //////////////////////////////////////////////////////////////////////////////////////// -->
+	<meta name="author" content="Evan Marshall">
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+	<title>ELYSIAN WEB DESIGN</title>
+
+	<!-- REMOVE BEFORE UPLOADING MAIN SITE //////////////////////////////////////////////////////////////////////// -->
+	<meta name="robots" content="noindex,nofollow">
+
+	<!-- Favicons ///////////////////////////////////////////////////////////////////////////////////////////////// -->
+	<!-- <link rel="apple-touch-icon" sizes="180x180" href="https://www.tripleetech.ca/assets/images/favicons/apple-touch-icon.png?v=RyMOQQnrk3">
+	<link rel="icon" type="image/png" sizes="32x32" href="https://www.tripleetech.ca/assets/images/favicons/favicon-32x32.png?v=RyMOQQnrk3">
+	<link rel="icon" type="image/png" sizes="16x16" href="https://www.tripleetech.ca/assets/images/favicons/favicon-16x16.png?v=RyMOQQnrk3">
+	<link rel="manifest" href="https://www.tripleetech.ca/assets/images/favicons/site.webmanifest?v=RyMOQQnrk3">
+	<link rel="mask-icon" href="https://www.tripleetech.ca/assets/images/favicons/safari-pinned-tab.svg?v=RyMOQQnrk3" color="#019ad5">
+	<link rel="shortcut icon" href="https://www.tripleetech.ca/assets/images/favicons/favicon.ico?v=RyMOQQnrk3">
+	<meta name="msapplication-TileColor" content="#019ad5">
+	<meta name="theme-color" content="#019ad5"> -->
+	<!-- FACEBOOK OPEN GRAPH META ///////////////////////////////////////////////////////////////////////////////// -->
+	<meta property="fb:app_id" content="#">
+	<meta property="og:url" content="https://www.elysianwebdesign.com">
+	<meta property="og:type" content="website">
+	<meta property="og:title" content="ELYSIAN WEB DESIGN">
+	<meta property="og:image" content="https://www.elysianwebdesign.com/assets/images/example.png">
+	<meta property="og:description" content="">
+	<meta property="og:site_name" content="ELYSIAN WEB DESIGN">
+	<meta property="og:locale" content="en_US">
+	<meta property="article:author" content="ELYSIAN WEB DESIGN">
+	<!-- TWITTER CARD META //////////////////////////////////////////////////////////////////////////////////////// -->
+	<!-- <meta name="twitter:card" content="summary">
+	<meta name="twitter:site" content="@site_account">
+	<meta name="twitter:creator" content="@individual_account">
+	<meta name="twitter:url" content="https://example.com/page.html">
+	<meta name="twitter:title" content="ELYSIAN WEB DESIGN">
+	<meta name="twitter:description" content="">
+	<meta name="twitter:image" content="https://www.elysianwebdesign.com/"> -->
+	<!-- GOOGLE+ & SCHEMA.ORG META //////////////////////////////////////////////////////////////////////////////// -->
+	<!-- <link href="https://plus.google.com/+YourPage" rel="publisher"> -->
+	<meta itemprop="name" content="ELYSIAN WEB DESIGN">
+	<meta itemprop="description" content="">
+	<meta itemprop="image" content="https://www.elysianwebdesign.com/assets/images/example.png">
+	<!-- BOOTSTRAP 4 STYLESHEETS & CUSTOM - before all other stylesheets ////////////////////////////////////////// -->
+	<link rel="stylesheet" href="/css/custom.css">
+	<!-- MFB & MODERNIZR ////////////////////////////////////////////////////////////////////////////////////////// -->
+	<script src="/js/modernizr.touch.js"></script>
+	<!-- FontAwesome ////////////////////////////////////////////////////////////////////////////////////////////// -->
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha256-eZrrJcwDc/3uDhsdt61sL2oOBY362qM3lon1gyExkL0=" crossorigin="anonymous" />
+	<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+	<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+	<!--[if lt IE 9]>
+	<script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+	<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+	<![endif]-->
+</head>
+
+<!-- JSON-LD markup generated by Google Structured Data Markup Helper. -->
+<!-- <script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "LocalBusiness",
+  "name" : "Clannad Counselling & Consulting",
+  "image" : "https://www.clannad.ca/img/main_logo.svg",
+  "telephone" : "(902) 365-3363",
+  "email" : "info@clannad.ca",
+  "address" : {
+    "@type" : "PostalAddress",
+    "streetAddress" : "535 Main Street",
+    "addressLocality" : "Kentville",
+    "addressRegion" : "NS",
+    "postalCode" : "B4N 1L4"
+  },
+  "openingHoursSpecification" : {
+    "@type" : "OpeningHoursSpecification",
+    "dayOfWeek" : {
+      "@type" : "DayOfWeek",
+      "name" : "Monday - Friday"
+    },
+    "opens" : "8:30",
+    "closes" : "16:30"
+  }
+}
+</script> -->
