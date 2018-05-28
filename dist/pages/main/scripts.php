@@ -16,10 +16,15 @@
 <!-- CUSTOM JS /////////////////////////////////////////////////////////////////////////////////////////////////// -->
 <script src="/js/custom.js"></script>
 <!-- SLICK JS //////////////////////////////////////////////////////////////////////////////////////////////////// -->
-<script type="text/javascript">
+<!-- <script type="text/javascript">
   $('#heroSlider').slick({
-    speed: 500,
-    fade: true,
-    cssEase: 'linear'
+    autoplay: true,
+    autoplaySpeed: 5000,
+    // speed: 1000,
+    // fade: true,
+    // cssEase: 'linear'
+    pauseOnFocus: false,
+    pauseOnHover: false,
+    arrows: false
   });
-</script>
+</script> -->
