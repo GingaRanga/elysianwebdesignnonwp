@@ -1,4 +1,4 @@
-<nav class="navbar navbar-expand-lg fixed-top" id="topNav">
+<nav class="navbar navbar-expand-lg fixed-top navbar-dark bg-dark" id="topNav">
   <a class="navbar-brand" href="/">
     <img src="/assets/images/brand_logo.svg" alt="brand logo homepage link" class="img-fluid">
   </a>
